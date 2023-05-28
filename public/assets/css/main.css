@@ -87,9 +87,9 @@ ul{
 
 /*TARJETAS EN CSS*/
 .border-left-card{border-left: 5px solid var(--color_fondo); padding-left: 20px;}
-.disign-one{background-image: url(../img/gym.jpg);}
-.disign-two{background-image: url(../img/veterinaria.jpg);}
-.disign-tres{background-image: url(../img//cafe.jpg);}
+.disign-one{background-image: url(../img/trabajos/familc.jpg);}
+.disign-two{background-image: url(../img/trabajos/amigroperu.jpg);}
+
 
 .deep_disign{
     background-position: center center;
