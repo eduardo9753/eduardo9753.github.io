@@ -16,11 +16,7 @@
                             Hola me presento:
                         </h3>
                         <p class="white_color paragraph_me pb-3 text-">
-                            Soy Desarrollador Web con más de 2 años de experiencia programando 
-                            con el lenguaje PHP y el Framework Laravel, fui Asistente de Sistemas en la Clínica Jesús del
-                            Norte, desempeñándome en los siguientes flujos de trabajo:
-                            programador de aplicativos web, soporte TI y mantenimiento basico
-                            de equipos informaticos.
+                            Soy Desarrollador Web con más de 2 años de experiencia programando con el lenguaje PHP y el Framework Laravel, fui Asistente de Sistemas en la Clínica Jesús del Norte, desempeñándome en los siguientes flujos de trabajo: programador de aplicativos webs, soporte TI y mantenimiento básico de equipos informáticos.
                         </p>
                         <hr />
                         <p class="white_color paragraph_me pb-3">
@@ -96,7 +92,27 @@
                                 </div>
                             </div>
 
-                           
+                            <div class="col-md-4 mb-4">
+                                <div class="disign-three deep_disign">
+                                    <div class="content">
+                                        <h2 class="text-center">BuscandoPeru</h2>
+                                        <a href="https://buscandoperu.familc.com/" class="btn-design color-btn-design" target="_bank">Ver Mas
+                                            <i class="bx bx-skip-next bx-fade-right bx-flip-vertical"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 mb-4">
+                                <div class="disign-four deep_disign">
+                                    <div class="content">
+                                        <h2 class="text-center">Frutimania</h2>
+                                        <a href="https://frutimania.familc.com/" class="btn-design color-btn-design" target="_bank">Ver Mas
+                                            <i class="bx bx-skip-next bx-fade-right bx-flip-vertical"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+
+
                         </div>
                     </div>
                 </div>

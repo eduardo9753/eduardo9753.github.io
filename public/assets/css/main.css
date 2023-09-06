@@ -89,7 +89,8 @@ ul{
 .border-left-card{border-left: 5px solid var(--color_fondo); padding-left: 20px;}
 .disign-one{background-image: url(../img/trabajos/familc.jpg);}
 .disign-two{background-image: url(../img/trabajos/amigroperu.jpg);}
-
+.disign-three{background-image: url(../img/trabajos/buscandoperu.jpg);}
+.disign-four{background-image: url(../img/trabajos/frutimania.jpg);}
 
 .deep_disign{
     background-position: center center;
